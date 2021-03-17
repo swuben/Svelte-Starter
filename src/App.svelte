@@ -1,4 +1,5 @@
 <script>
+  // file_pattern_should_trigger
   import { Router, Link, Route } from 'svelte-routing';
 
   import RouterOutlet from '~/core/RouterOutlet';
