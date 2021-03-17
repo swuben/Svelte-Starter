@@ -1,4 +1,5 @@
 <script>
+  // one more kick at the cat
   import { Router, Link, Route } from 'svelte-routing';
 
   import RouterOutlet from '~/core/RouterOutlet';
