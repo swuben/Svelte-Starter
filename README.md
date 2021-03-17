@@ -1,4 +1,4 @@
-# Svelte Starter
+# Svelte Starter (Copy)
 
 :icecream: A boilerplate for Svelte, Material, Babel, and PostCSS.
 
